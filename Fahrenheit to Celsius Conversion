@@ -1,0 +1,19 @@
+1. Inicio
+2. Pedir temperaturas a convertir y asignar nombre T
+3. Preguntar si la temperatura es Celsius o Fahrenheit
+4. Si la temperatura esta en grados Celsius 
+  Solicitar formula de conversión a grados Fahrenheit (T*1.8) + 32
+  Realizar conversión paso a paso
+  Reemplazar en fórmula los grados Celsius
+  Multiplicar por 1.80
+  Sumar 32 al resultado de la multiplicación
+  Guardar el resultado obtenido
+5. Si la temperatura son grados Fahrenheit
+  Solicitar fórmula de conversión a grados Celsius  (T - 32)*1.80
+  Realizar la conversión paso a paso
+  Reemplazar en la fórmula los grados F
+  Restar 32 a grados asignados
+  Multiplicar 1.80 al resultado de la resta
+  Guardar resultados onbtenidos
+Fin
+  
