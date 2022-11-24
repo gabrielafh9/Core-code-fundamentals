@@ -1,5 +1,4 @@
 # core-code-fundamentals1
-Reunir los ingredientes: harina, levadura, agua, salsa de tomate, queso y jamón
 Preparar la base de la pizza
 Los ingredientes para la base de la pizza son: harina, levaura y agua
 Mezclar la harina y levadura
