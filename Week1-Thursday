@@ -1,4 +1,6 @@
-#Diseña un algoritmo para comprobar si un número es par o impar
+#core-code-fundamentals
+#Week1-Thursday
+Diseña un algoritmo para comprobar si un número es par o impar
 1. Inicio
 2. Tomar variable entera A 
 3. Asignar valor a la variable A
@@ -7,7 +9,7 @@
 6. Si X es cero o no es un número entero, es un número impar
 7. Fin
 
-#Escribir un algoritmo que calcule la edad de una persona a partir de la fecha de nacimiento
+Escribir un algoritmo que calcule la edad de una persona a partir de la fecha de nacimiento
 1. Inicio
 2. Requerir fecha de nacimiento
 3. Almacenar fecha de nacimiento en variable "DOB"
@@ -17,7 +19,7 @@
 7.Imprimir edad
 8. FIN
 
-#Identificar qué cofres tienen tesoros
+Identificar qué cofres tienen tesoros
 1. Cofre 1: 
   "El cofre de en medio tiene el tesoro" sin embargo, como es mentira el cofre 2 no tiene tesoro.
 2. Cofre 2:
