@@ -1,0 +1,20 @@
+Algoritmo booleanValues
+	a <- 5 == 3
+	// a = false
+	//Reason: if a is equal to 5 it's contradictory to say that a is equal to 3
+	b <- 4 <> 3
+	// b = true
+	// Reason: we are comparing if 4 and 3 are different which is true
+	c <- 7 > 7
+	// c = false
+	// Reason: We are comparing if 7 is grater than 7 which is false
+	d <- 4 < 4
+	// d = false
+	// Reason: We are comparing if 4 is less than 4 which is false
+	e <- 100 <= 90
+	// e = false 
+	//Reason: We are comparing if 100 is less  or equal to 90 which is false
+	f <- 40 >= 40
+	// f =  true
+	// Reason: We are comparing if 40 is greater or equal than 40 which is true
+FinAlgoritmo
