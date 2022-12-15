@@ -1,0 +1,28 @@
+Algoritmo Calculadora
+	Imprimir "Simple calculator"
+	Imprimir "Ingrese el primer numero"
+	Leer n1
+	Imprimir "Ingrese el segundo numero"
+	Leer n2
+	Imprimir "Ingrese una operacion +, -, *, /"
+	Leer operacion
+	Si operacion == "+" | operacion == "-" | operacion == "*" | operacion == "/" Entonces
+		Imprimir "procesando" + ConvertirATexto(n1) + " " + operacion + " " + ConvertirATexto(n2)
+		Si operacion == "+" Entonces
+			Imprimir "Resultado" + ConvertirATexto(n1 + n2)
+		SiNo
+			Si operacion == "-" Entonces
+				Imprimir "Resultado" + ConvertirATexto(n1 - n2)
+				
+			SiNo 
+				Si operacion == "*" Entonces
+					Imprimir "Resultado" + ConvertirATexto(n1 * n2)
+				SiNo
+					Imprimir "Resultado" + ConvertirATexto(n1 / n2)
+				FinSi
+			FinSi
+		FinSi
+	SiNo 
+		Imprimir "La operacion no es valida"
+	FinSi
+FinAlgoritmo
