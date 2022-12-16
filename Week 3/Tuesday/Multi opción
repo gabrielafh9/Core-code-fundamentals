@@ -1,0 +1,44 @@
+Algoritmo MultiOpcion
+	Imprimir "multiopcion"
+	Imprimir "Opciones multiples a escoger"
+	Imprimir 1 "." "Suma de dos numeros"
+	Imprimir 2 "." "Imprimir dia de la semana"
+	Imprimir 3 "." "Calcular longitud del texto"
+	
+	Imprimir "Que opcion prefieres: 1, 2, 3?"
+	Leer op
+	Segun op Hacer
+		1:
+			Imprimir "Cuales dos numeros desea sumar?"
+			Leer n1
+			Leer n2
+			Imprimir "El resultado de la suma es" + ConvertirATexto(n1 + n2)
+		2:
+			Imprimir "Cual dia de la semana quieres imprimir? Escoge del (1 al 7)"
+			Leer n1
+			Segun n1 Hacer
+				1:
+					Imprimir "Lunes"
+				2:
+					Imprimir "Martes"
+				3:
+					Imprimir "Miercoles"
+				4:
+					Imprimir "Jueves"
+				5:
+					Imprimir "Viernes"
+				6:
+					Imprimir "Sabado"
+				7:
+					Imprimir "Domingo"
+			FinSegun
+		3:
+			Imprimir "Escoja su palabra"
+			Leer cadena
+			Imprimir " El resultado es " + ConvertirATexto(Longitud(cadena))
+			
+		De Otro Modo:
+			Imprimir "No valido"
+	FinSegun
+	
+FinAlgoritmo
