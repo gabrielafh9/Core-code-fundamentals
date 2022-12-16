@@ -1,0 +1,23 @@
+Algoritmo CalculadoraSwitch
+	Imprimir "Simple Calculator"
+	Imprimir "Ingrese primer numero"
+	Leer n1
+	Imprimir "Ingrese el segundo numero"
+	Leer n2
+	Imprimir "Ingrese Operacion +,-,*,/"
+	Leer op
+	Imprimir "El resultado de la operacion" ConvertirATexto(n1) + op + ConvertirATexto(n2)
+	segun op Hacer
+		"+":
+			Imprimir "El resultado es" + " " + ConvertirATexto( n1 + n2)
+		"-":
+			Imprimir "El resultado es" + " " + ConvertirATexto( n1 - n2 )
+		"*":
+			Imprimir "El resultado es" + " " + ConvertirATexto( n1 * n2 )
+		"/":
+			Imprimir "El resultado es" + " " + ConvertirATexto( n1 / n2 )
+		De Otro Modo:
+			Imprimir "Valor no valido"
+		
+	FinSegun	
+FinAlgoritmo
