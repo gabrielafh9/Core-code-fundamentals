@@ -1,0 +1,26 @@
+Algoritmo CalculadoraDoWhile
+	Repetir
+		
+		Imprimir "Calculadora"
+		Imprimir "Ingrese dos numeros"
+		Leer n1
+		Leer n2
+		Imprimir "Que operacion desea realizar +, -, *, /"
+		Leer op
+		Segun op Hacer
+			"+":
+				Imprimir "El resultado es " + " " + ConvertirATexto(n1+n2)
+			"-":
+				Imprimir "El resultado es " + " " + ConvertirATexto(n1-n2)
+			"*":
+				Imprimir "El resultado es " + " " + ConvertirATexto(n1*n2)
+			"/":
+				Imprimir "El resultado es " + " " + ConvertirATexto(n1/n2)
+				
+				
+		FinSegun
+		Imprimir "Deseas continuar con otra operacion? Si/No"
+		Leer respuesta
+	Hasta Que respuesta == "No" | respuesta == "no"
+	
+FinAlgoritmo
