@@ -1,0 +1,9 @@
+Algoritmo MultiplicationTableswithFor
+	Imprimir "Tablas de multiplicar"
+	Imprimir "Ingrese la tabla a calcular"
+	Leer x
+	Para z = 1 Hasta 10 Hacer
+		Imprimir "Resultado: " ConvertirATexto(x) + "*" + ConvertirATexto(z) + "=" + ConvertirATexto(x*z)
+	FinPara
+	
+FinAlgoritmo
