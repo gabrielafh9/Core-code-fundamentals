@@ -1,0 +1,20 @@
+Algoritmo AscendenteDescendente
+	Imprimir "Ingrese Numero"
+	Leer n1
+	Imprimir "Operaciones disponibles"
+	Imprimir "1. En orden Ascendente"
+	Imprimir "2. En orden Descendente"
+	Imprimir "Ingrese la opcion deseada"
+	Leer op
+	Segun op Hacer
+		"1":
+			Para iterador = 0 Hasta 10 Con Paso 1 Hacer
+				Imprimir ConvertirATexto(iterador)
+			FinPara
+		"2":
+			Para iterador = 10 Hasta  0 Con Paso -1 Hacer
+				Imprimir ConvertirATexto(iterador)
+			FinPara
+	FinSegun
+	
+FinAlgoritmo
