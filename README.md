@@ -104,7 +104,9 @@ Identificar qué cofres tienen tesoros
    "Ninguno de los cofres tiene tesoro" sin embargo, como es mentira sabemos que al menos un cofre tiene tesoro.
 3. Cofre 3:
    "Solo un cofre tiene tesoro" sin embargo como es mentira sabemos que más de un cofre tiene tesoro.
+
 Conclusion: A y C tienen tesoro.
+
 FIN
 
 <h1 align="center">Week 2</h1>
