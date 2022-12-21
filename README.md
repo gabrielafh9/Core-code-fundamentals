@@ -1,7 +1,7 @@
 <h1 align="center">Core Code Fundamentals</h1>
 
 
-## Algorithms - Week 1
+# Algorithms - Week 1
 
 <h1 align="left">Monday</h1>
 
