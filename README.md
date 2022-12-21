@@ -191,3 +191,8 @@ Truth Tables
 ## Boolean results
 
 [![Boolean-Values1.png](https://i.postimg.cc/fR0kbnfZ/Boolean-Values1.png)](https://postimg.cc/MnqzsLLr)
+
+## Identify odd and even numbers
+
+[![calculadora-Eor-O.png](https://i.postimg.cc/Dwdk6x2L/calculadora-Eor-O.png)](https://postimg.cc/dh1xtmZV)
+
