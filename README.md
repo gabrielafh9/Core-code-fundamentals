@@ -11,4 +11,3 @@ Hornear la pizza
 Cortar la pizza
 Comer la pizza
 
-[![My-Name.png](https://i.postimg.cc/Bv39KBpV/My-Name.png)](https://postimg.cc/PCSRGZBW)
