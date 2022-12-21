@@ -132,3 +132,19 @@ Eva says 4 people studied mathematics yesterday, that's not real because only th
 If Dan is telling the true he's contradicting his classmates and the same logic applies to Charlie.
 
 Therefore, Bob is telling the truth because he's not contradicting anyone and he's the one who studied math.
+
+## Cereal vs milk
+
+Cereal vs milk
+
+1. Start 
+2. Gather  your supplies: bowl, spoon, milk, a box a cereal
+3. Get a bowl
+4. Add cereal
+5. Add milk
+6. Pick up a spoon
+End
+
+[![milk-or-cereal.png](https://i.postimg.cc/J7vk6zT3/milk-or-cereal.png)](https://postimg.cc/23dy3rN3)
+
+
