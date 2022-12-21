@@ -111,7 +111,7 @@ FIN
 
 <h1 align="center">Week 2</h1>
 
-## Monday
+<h1 align="left">Monday</h1>
 
 ## Logic Problem
 
@@ -145,7 +145,7 @@ Cereal vs milk
 
 [![milk-or-cereal.png](https://i.postimg.cc/J7vk6zT3/milk-or-cereal.png)](https://postimg.cc/23dy3rN3)
 
-## Tuesday
+<h1 align="left">Tuesday</h1>
 
 Print my name
 
@@ -155,7 +155,7 @@ Print my name & age
 
 [![My-name-and-age.png](https://i.postimg.cc/Y9CFXDYP/My-name-and-age.png)](https://postimg.cc/VS25vR79)
 
-## Wednesday
+<h1 align="left">Wednesday</h1>
 
 Algortithm game
 
@@ -169,3 +169,25 @@ Register Form
 
 [![Register-Form.png](https://i.postimg.cc/kGcXk7CF/Register-Form.png)](https://postimg.cc/T5K6bMpp)
 
+<h1 align="left">Thursday</h1>
+
+Truth Tables
+
+-  T & T = T ✅
+-  T & F = F ✅
+-  F & T = T ❌
+-  F & F = F ✅
+-  T | T = T ✅
+-  T | F = F ❌
+-  F | T = T ✅
+-  F | F = F ✅
+-  ~T = T ❌
+-  ~f = T ✅
+-  (T & F) | (~F) = T ✅
+-  (T | F) & (F | F) = T ❌
+-  ~((T | F) & (F | F)) & F = F ✅
+-  ~((T | F) & (F | F)) & T = T ✅
+
+## Boolean results
+
+[![Boolean-Values1.png](https://i.postimg.cc/fR0kbnfZ/Boolean-Values1.png)](https://postimg.cc/MnqzsLLr)
