@@ -151,11 +151,19 @@ Print my name
 
 Print my name & age
 
-[![My-name-and-age.png](https://i.postimg.cc/Y9Y5s871/My-name-and-age.png)](https://postimg.cc/ZBYs98CR)
+[![My-name-and-age.png](https://i.postimg.cc/Y9CFXDYP/My-name-and-age.png)](https://postimg.cc/VS25vR79)
 
+## Wednesday
 
+Algortithm game
 
+[![Algorithm-game.png](https://i.postimg.cc/90qrS6ML/Algorithm-game.png)](https://postimg.cc/D4nv4Y1G)
 
+Mod
 
+[![Mod.png](https://i.postimg.cc/bNpZLBP9/Mod.png)](https://postimg.cc/XX1NYxpr)
 
+Register Form
+
+[![Register-Form.png](https://i.postimg.cc/kGcXk7CF/Register-Form.png)](https://postimg.cc/T5K6bMpp)
 
