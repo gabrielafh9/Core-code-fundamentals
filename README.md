@@ -115,15 +115,11 @@ FIN
 
 The teacher asks his 5 students if they studied mathematics yesterday
 
-Alice: "Nobody studied math yesterday"
-
-Bob: "1 person studied math yesterday"
-
-Charlie: "2 people studied math yesterday"
-
-Dan: "3 people studied mathematics yesterday"
-
-Eva: "4 people studied mathematics yesteday"
+- Alice: "Nobody studied math yesterday"
+- Bob: "1 person studied math yesterday"
+- Charlie: "2 people studied math yesterday"
+- Dan: "3 people studied mathematics yesterday"
+- Eva: "4 people studied mathematics yesteday"
 
 The teacher knows that only those who studied would be telling the truth and those who didn't would be lying. Who is telling the truth?
 
@@ -143,8 +139,23 @@ Cereal vs milk
 4. Add cereal
 5. Add milk
 6. Pick up a spoon
-End
+7. End
 
 [![milk-or-cereal.png](https://i.postimg.cc/J7vk6zT3/milk-or-cereal.png)](https://postimg.cc/23dy3rN3)
+
+## Tuesday
+
+Print my name
+
+[![My-Name.png](https://i.postimg.cc/Bv39KBpV/My-Name.png)](https://postimg.cc/PCSRGZBW)
+
+Print my name & age
+
+[![My-name-and-age.png](https://i.postimg.cc/Y9Y5s871/My-name-and-age.png)](https://postimg.cc/ZBYs98CR)
+
+
+
+
+
 
 
