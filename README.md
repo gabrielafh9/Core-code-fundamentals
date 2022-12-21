@@ -40,4 +40,25 @@ Fin
 
 ## Some Geometry
 
+Diseñar un algoritmo para calcular el volumen de una pirámide, un cubo y una esfera
 
+1. Inicio
+2. Imprimir en la pantalla las opciones "1 Pirámide 2 Cubo 3 Esfera"
+
+3. Si la opción es "1"
+   - Calcular el volumen de la pirámide con la fórmula (1/3)(Bh)
+   - Multiplicar el área de la base por altura
+   - Dividir entre tres
+   - Calcular el resultado
+   - Imprimir el volumen de la pirámide
+4. Si la opción es "2"
+   - Calcular el volumen del cubo con la fórmula a × a × a = a³
+   - Calcular el resultado
+   - Imprimir el volumen del cubo
+5. Si la opción es "3"
+   - Definir el radio de la esfera
+   - Calcular el volumen de la esfera con la fórmula (4/3)*π*r3
+   - Asignar el volumen de la esfera
+   - Imprimir el volumen de la esfera
+   
+ Fin
