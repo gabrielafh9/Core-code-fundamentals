@@ -1,4 +1,9 @@
-# core-code-fundamentals1
+# core-code-fundamentals
+
+## Algorithms - Week 1
+
+## Monday 
+
 
 ## Preparar la base de la pizza
 Los ingredientes para la base de la pizza son: 
@@ -62,3 +67,15 @@ Diseñar un algoritmo para calcular el volumen de una pirámide, un cubo y una e
    - Imprimir el volumen de la esfera
    
  Fin
+
+<h1 align="left">Tuesday</h1>
+
+## Numbers
+Diseña un algoritmo para comprobar si un número es par o impar
+1. Inicio
+2. Tomar variable entera A 
+3. Asignar valor a la variable A
+4. Ejecutar A/2 = X
+5. Si X  es un número entero diferente de cero, es un número par
+6. Si X es cero o no es un número entero, es un número impar
+7. Fin
