@@ -254,3 +254,9 @@ Greetings
 ## Average sales and comission
 
 [![averagesalesw4.png](https://i.postimg.cc/TwGzmxrm/averagesalesw4.png)](https://postimg.cc/FfWC52Cs)
+
+## Even or Odd
+
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/116181766/209196840-d69511b0-e414-43c7-85bf-9ff418e6ce0a.png">
+
+
