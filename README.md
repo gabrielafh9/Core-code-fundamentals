@@ -196,3 +196,18 @@ Truth Tables
 
 [![calculadora-Eor-O.png](https://i.postimg.cc/Dwdk6x2L/calculadora-Eor-O.png)](https://postimg.cc/dh1xtmZV)
 
+<h1 align="center">Week 3</h1>
+
+## Monday
+
+Simple calculator
+
+[![simple-calculator.png](https://i.postimg.cc/kXh2NrN6/simple-calculator.png)](https://postimg.cc/qzyB0554)
+
+Special number
+
+[![Special-number.png](https://i.postimg.cc/tgGCD9sT/Special-number.png)](https://postimg.cc/SnVhxF7F)
+
+
+
+
