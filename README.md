@@ -1,5 +1,10 @@
 <h1 align="center">Core Code Fundamentals</h1>
 
+- Week 1 : [Algorithms](src/technologies/2022/week01)
+- Week 2 : [Pseudocode](src/technologies/2022/week02)
+- Week 3 : [Pseudocode](src/technologies/2022/week03)
+- Week 4 : [Pseudocode](src/technologies/2022/week04)
+
 
 # Algorithms - Week 1
 
