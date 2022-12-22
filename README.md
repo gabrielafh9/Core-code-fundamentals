@@ -5,7 +5,8 @@
 - [Week 3](#Week-3)
 - [Week 4](#Week-4)
 
-# Algorithms - Week 1
+<h1 align="center">Algortihms - Week 1</h1>
+
 
 <h1 align="left">Monday</h1>
 
