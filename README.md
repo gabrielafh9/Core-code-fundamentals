@@ -253,4 +253,4 @@ Greetings
 
 ## Average sales and comission
 
-
+[![averagesalesw4.png](https://i.postimg.cc/TwGzmxrm/averagesalesw4.png)](https://postimg.cc/FfWC52Cs)
