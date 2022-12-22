@@ -130,7 +130,7 @@ The teacher asks his 5 students if they studied mathematics yesterday
 
 The teacher knows that only those who studied would be telling the truth and those who didn't would be lying. Who is telling the truth?
 
-Alice says that nobody studied math yesterday, but if she's included in that it doesn't make sense, she's not gonna tell the teacher she didn't studied. 
+Alice says that nobody studied math yesterday, but if she's included in that it doesn't make sense, she's not gonna tell the teacher she has not studied. 
 Eva says 4 people studied mathematics yesterday, that's not real because only the ones who studied are telling the true, that statement contradicts the other students.
 If Dan is telling the true he's contradicting his classmates and the same logic applies to Charlie.
 
