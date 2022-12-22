@@ -218,8 +218,26 @@ Multi Option program
 
 [![Multi-Opcion.png](https://i.postimg.cc/DfpG6bnw/Multi-Opcion.png)](https://postimg.cc/Yjgjq0v5)
 
+<h1 align="left">Wednesday</h1>
 
+Multiplication Tables
 
+[![Tabla-de-multiplicar.png](https://i.postimg.cc/HLTjdpdN/Tabla-de-multiplicar.png)](https://postimg.cc/qNZpGHtc)
 
+Simple calculator with Do While
 
+[![DoWhile.png](https://i.postimg.cc/76d2xpBT/DoWhile.png)](https://postimg.cc/MM0T5rJW)
 
+<h1 align="left">Thursday</h1>
+
+Multiplication tables with For
+
+[![Multiplication-tables-with-for-111.png](https://i.postimg.cc/cHpBDgGj/Multiplication-tables-with-for-111.png)](https://postimg.cc/cgc3CJHM)
+
+Ascending and Descending Numbers
+
+[![Ascendente-Descendente1.png](https://i.postimg.cc/V6Cjbf0F/Ascendente-Descendente1.png)](https://postimg.cc/sQ3BkRcB)
+
+Greetings
+
+[![Greetings1.png](https://i.postimg.cc/jjJWM8qx/Greetings1.png)](https://postimg.cc/bGpNJ92W)
