@@ -3,7 +3,7 @@
 - [Week 1](https://github.com/Gabrielafh9/core-code-fundamentals/edit/main/README.md#week1-)
 - [Week 2](#Week-2)
 - [Week 3](#Week-3)
-- [Week 4](https://github.com/Gabrielafh9/core-code-fundamentals/edit/main/README.md#week4-)
+- [Week 4](#Week-4)
 
 <h1 align="center">Algortihms - Week 1</h1>
 
