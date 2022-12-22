@@ -247,7 +247,7 @@ Greetings
 
 [![Greetings1.png](https://i.postimg.cc/jjJWM8qx/Greetings1.png)](https://postimg.cc/bGpNJ92W)
 
-<h1 align="center">Algortihms - Week 4</h1>
+<h1 align="center">Pseudocode & Pause Day - Week 4</h1>
 
 <h1 align="left">Monday</h1>
 
