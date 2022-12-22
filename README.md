@@ -198,7 +198,7 @@ Truth Tables
 
 <h1 align="center">Week 3</h1>
 
-## Monday
+<h1 align="left">Monday</h1>
 
 Simple calculator
 
@@ -207,6 +207,18 @@ Simple calculator
 Special number
 
 [![Special-number.png](https://i.postimg.cc/tgGCD9sT/Special-number.png)](https://postimg.cc/SnVhxF7F)
+
+<h1 align="left">Tuesday</h1>
+
+Simple calculator with Switch
+
+[![Calculador-Switch.png](https://i.postimg.cc/SQg6Pv7q/Calculador-Switch.png)](https://postimg.cc/ThW5LQ4H)
+
+Multi Option program
+
+[![Multi-Opcion.png](https://i.postimg.cc/DfpG6bnw/Multi-Opcion.png)](https://postimg.cc/Yjgjq0v5)
+
+
 
 
 
