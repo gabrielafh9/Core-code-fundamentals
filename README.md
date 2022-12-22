@@ -162,21 +162,21 @@ Print my name & age
 
 <h1 align="left">Wednesday</h1>
 
-Algortithm game
+## Algortithm game
 
 [![Algorithm-game.png](https://i.postimg.cc/90qrS6ML/Algorithm-game.png)](https://postimg.cc/D4nv4Y1G)
 
-Mod
+## Mod
 
 [![Mod.png](https://i.postimg.cc/bNpZLBP9/Mod.png)](https://postimg.cc/XX1NYxpr)
 
-Register Form
+## Register Form
 
 [![Register-Form.png](https://i.postimg.cc/kGcXk7CF/Register-Form.png)](https://postimg.cc/T5K6bMpp)
 
 <h1 align="left">Thursday</h1>
 
-Truth Tables
+## Truth Tables
 
 -  T & T = T ✅
 -  T & F = F ✅
@@ -205,45 +205,45 @@ Truth Tables
 
 <h1 align="left">Monday</h1>
 
-Simple calculator
+## Simple calculator
 
 [![simple-calculator.png](https://i.postimg.cc/kXh2NrN6/simple-calculator.png)](https://postimg.cc/qzyB0554)
 
-Special number
+## Special number
 
 [![Special-number.png](https://i.postimg.cc/tgGCD9sT/Special-number.png)](https://postimg.cc/SnVhxF7F)
 
 <h1 align="left">Tuesday</h1>
 
-Simple calculator with Switch
+## Simple calculator with Switch
 
 [![Calculador-Switch.png](https://i.postimg.cc/SQg6Pv7q/Calculador-Switch.png)](https://postimg.cc/ThW5LQ4H)
 
-Multi Option program
+## Multi Option program
 
 [![Multi-Opcion.png](https://i.postimg.cc/DfpG6bnw/Multi-Opcion.png)](https://postimg.cc/Yjgjq0v5)
 
 <h1 align="left">Wednesday</h1>
 
-Multiplication Tables
+## Multiplication Tables
 
 [![Tabla-de-multiplicar.png](https://i.postimg.cc/HLTjdpdN/Tabla-de-multiplicar.png)](https://postimg.cc/qNZpGHtc)
 
-Simple calculator with Do While
+## Simple calculator with Do While
 
 [![DoWhile.png](https://i.postimg.cc/76d2xpBT/DoWhile.png)](https://postimg.cc/MM0T5rJW)
 
 <h1 align="left">Thursday</h1>
 
-Multiplication tables with For
+## Multiplication tables with For
 
 [![Multiplication-tables-with-for-111.png](https://i.postimg.cc/cHpBDgGj/Multiplication-tables-with-for-111.png)](https://postimg.cc/cgc3CJHM)
 
-Ascending and Descending Numbers
+## Ascending and Descending Numbers
 
 [![Ascendente-Descendente1.png](https://i.postimg.cc/V6Cjbf0F/Ascendente-Descendente1.png)](https://postimg.cc/sQ3BkRcB)
 
-Greetings
+## Greetings
 
 [![Greetings1.png](https://i.postimg.cc/jjJWM8qx/Greetings1.png)](https://postimg.cc/bGpNJ92W)
 
@@ -261,7 +261,11 @@ Greetings
 
 <h1 align="left">Tuesday</h1>
 
-Full name
+## Full name
 
 [![Full-Namew4.png](https://i.postimg.cc/C1sqk7Hv/Full-Namew4.png)](https://postimg.cc/sQ1xRpLS)
+
+## Throw dice
+
+[![Throw-Dice.png](https://i.postimg.cc/R06hPQrT/Throw-Dice.png)](https://postimg.cc/wtz9MNjt)
 
