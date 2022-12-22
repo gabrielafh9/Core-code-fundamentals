@@ -1,8 +1,6 @@
 <h1 align="center">Core Code Fundamentals</h1>
 
 - [Week 1](https://github.com/Gabrielafh9/core-code-fundamentals/edit/main/README.md#week1-)
-
-
 - [Week 1](#Week-1)
 - [Week 2](#Week-2)
 - [Week 3](#Week-3)
