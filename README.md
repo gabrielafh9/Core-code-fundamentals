@@ -269,3 +269,10 @@ Print my name & age
 
 [![Throw-Dice.png](https://i.postimg.cc/R06hPQrT/Throw-Dice.png)](https://postimg.cc/wtz9MNjt)
 
+<h1 align="left">Wednesday</h1>
+
+## Distance to zero
+
+[![Distancetozerow4.png](https://i.postimg.cc/sfJJTpTQ/Distancetozerow4.png)](https://postimg.cc/rzKWmtXM)
+
+
