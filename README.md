@@ -287,3 +287,7 @@ Print my name & age
 
 [![Captura-de-pantalla-20221226-155903.png](https://i.postimg.cc/L6KB9dMr/Captura-de-pantalla-20221226-155903.png)](https://postimg.cc/dD6T6x3B)
 
+## Reverse direction and size
+
+[![Captura-de-pantalla-20221226-172615.png](https://i.postimg.cc/xCX36Hwm/Captura-de-pantalla-20221226-172615.png)](https://postimg.cc/TLXbwyY2)
+
