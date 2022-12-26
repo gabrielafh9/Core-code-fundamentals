@@ -281,3 +281,9 @@ Print my name & age
 
 [![Captura-de-pantalla-20221225-231249.png](https://i.postimg.cc/ydkhB4N3/Captura-de-pantalla-20221225-231249.png)](https://postimg.cc/XG6BcPdn)
 
+<h1 align="left">Thursday</h1>
+
+## Total price
+
+[![Captura-de-pantalla-20221226-155903.png](https://i.postimg.cc/L6KB9dMr/Captura-de-pantalla-20221226-155903.png)](https://postimg.cc/dD6T6x3B)
+
