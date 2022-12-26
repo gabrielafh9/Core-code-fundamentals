@@ -275,4 +275,9 @@ Print my name & age
 
 [![Distancetozerow4.png](https://i.postimg.cc/sfJJTpTQ/Distancetozerow4.png)](https://postimg.cc/rzKWmtXM)
 
+## Toss Coin
+
+[![Captura-de-pantalla-20221225-231219.png](https://i.postimg.cc/q7Q6zmFc/Captura-de-pantalla-20221225-231219.png)](https://postimg.cc/hJztY0ch)
+
+[![Captura-de-pantalla-20221225-231249.png](https://i.postimg.cc/ydkhB4N3/Captura-de-pantalla-20221225-231249.png)](https://postimg.cc/XG6BcPdn)
 
