@@ -172,7 +172,7 @@ Print my name & age
 
 ## Register Form
 
-[![Register-Form.png](https://i.postimg.cc/kGcXk7CF/Register-Form.png)](https://postimg.cc/T5K6bMpp)
+[![Captura-de-pantalla-20221229-213710.png](https://i.postimg.cc/VsWYdhM6/Captura-de-pantalla-20221229-213710.png)](https://postimg.cc/Z00kQVwt)
 
 <h1 align="left">Thursday</h1>
 
