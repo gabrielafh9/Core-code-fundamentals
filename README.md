@@ -199,7 +199,7 @@ Print my name & age
 
 ## Identify odd and even numbers
 
-[![calculadora-Eor-O.png](https://i.postimg.cc/Dwdk6x2L/calculadora-Eor-O.png)](https://postimg.cc/dh1xtmZV)
+[![Captura-de-pantalla-20221230-111219.png](https://i.postimg.cc/2S38ym3v/Captura-de-pantalla-20221230-111219.png)](https://postimg.cc/xXDSpwvT)
 
 <h1 align="center">Week 3</h1>
 
