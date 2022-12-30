@@ -168,7 +168,7 @@ Print my name & age
 
 ## Mod
 
-[![Mod.png](https://i.postimg.cc/bNpZLBP9/Mod.png)](https://postimg.cc/XX1NYxpr)
+[![Captura-de-pantalla-20221229-205949.png](https://i.postimg.cc/ydyLRhv9/Captura-de-pantalla-20221229-205949.png)](https://postimg.cc/S2jLF90N)
 
 ## Register Form
 
